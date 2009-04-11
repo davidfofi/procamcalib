@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+#labels Phase-Deploy,Phase-Requirements
+
+= Installation =
+
+The [http://www.vision.caltech.edu/bouguetj/calib_doc/index.html "Camera Calibration Toolbox"] of J.-Y. Bouguet must be installed first since our toolbox uses functions and variables from it. 
